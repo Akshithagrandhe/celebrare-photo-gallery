@@ -2,6 +2,8 @@
 
 A small React photo gallery built for the Celebrare Frontend Internship assignment. It loads 30 photos from Lorem Picsum, filters them by author, and saves liked photo IDs in the browser.
 
+Live demo: https://akshithagrandhe.github.io/celebrare-photo-gallery/
+
 ## Run it locally
 
 Install the packages, then start the Vite development server:
